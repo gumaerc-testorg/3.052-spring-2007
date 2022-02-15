@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6fe380d9-6cee-d2df-6149-ca356a7cdfbb
 ---
@@ -14,7 +16,7 @@ Recitations: 1 session / week, 1 hour / session
 Course Catalog Description
 --------------------------
 
-This course focuses on the latest scientific developments and discoveries in the field of nanomechanics, the study of forces and motion on extremely tiny (10\-9 m) areas of synthetic and biological materials and structures. At this level, mechanical properties are intimately related to chemistry, physics, and quantum mechanics. Most lectures will consist of a theoretical component that will then be compared to recent experimental data (case studies) in the literature. The course begins with a series of introductory lectures that describes the normal and lateral forces acting at the atomic scale. The following discussions include experimental techniques in high resolution force spectroscopy, atomistic aspects of adhesion, nanoindentation, molecular details of fracture, chemical force microscopy, elasticity of single macromolecular chains, intermolecular interactions in polymers, dynamic force spectroscopy, biomolecular bond strength measurements, and molecular motors.
+This course focuses on the latest scientific developments and discoveries in the field of nanomechanics, the study of forces and motion on extremely tiny (10{{< sup "\\-9" >}} m) areas of synthetic and biological materials and structures. At this level, mechanical properties are intimately related to chemistry, physics, and quantum mechanics. Most lectures will consist of a theoretical component that will then be compared to recent experimental data (case studies) in the literature. The course begins with a series of introductory lectures that describes the normal and lateral forces acting at the atomic scale. The following discussions include experimental techniques in high resolution force spectroscopy, atomistic aspects of adhesion, nanoindentation, molecular details of fracture, chemical force microscopy, elasticity of single macromolecular chains, intermolecular interactions in polymers, dynamic force spectroscopy, biomolecular bond strength measurements, and molecular motors.
 
 Prerequisites
 -------------

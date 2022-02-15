@@ -6,8 +6,13 @@ description: 'For homeworks 2 and 5, the supporting WSxM image files (hw2_wsxm_n
   of the image. You may open the file with an ASCII editor like Notepad and see the
   header of the file, but caution: do not try to save that file from the ASCII editor
   because it will destroy the binary data!'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/53222b54218fb5a84f6bc324799613ae_hw5_wsxm_chondrocyte.zip
+file: /media/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/53222b54218fb5a84f6bc324799613ae_hw5_wsxm_chondrocyte.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: hw5_wsxm_chondrocyte.zip
 uid: 53222b54-218f-b5a8-4f6b-c324799613ae

@@ -6,8 +6,13 @@ description: 'Supporting WSxM image files for homeworks 2 and 5, (hw2_wsxm_nanop
   of the image. You may open the file with an ASCII editor like Notepad and see the
   header of the file, but caution: do not try to save that file from the ASCII editor
   because it will destroy the binary data!'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4865ce0b25fada8cdace1125aaf64e0d_hw2_wsxm_nanoparticle.zip
+file: /media/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4865ce0b25fada8cdace1125aaf64e0d_hw2_wsxm_nanoparticle.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: hw2_wsxm_nanoparticle.zip
 uid: 4865ce0b-25fa-da8c-dace-1125aaf64e0d

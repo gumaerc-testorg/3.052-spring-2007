@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/5ae28b91204e7a5947ae80c65d0b5640_hw5_wsxm_chondrocyte.txt
+file: /media/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/5ae28b91204e7a5947ae80c65d0b5640_hw5_wsxm_chondrocyte.txt
 file_type: application/octet-stream
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: hw5_wsxm_chondrocyte.txt
 uid: 5ae28b91-204e-7a59-47ae-80c65d0b5640
