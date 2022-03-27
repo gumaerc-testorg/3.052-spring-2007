@@ -50,7 +50,7 @@ Homework 2 ([PDF]({{< baseurl >}}/resources/hw2))
 {{< tdopen >}}
 
 
-Data for problem 2 ([TXT](/courses/materials-science-and-engineering/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/assignments/hw2_q2_data.txt))
+Data for problem 2 ([TXT]({{< baseurl >}}/resources/hw2_q2_data))
 
 \*\* WSxM image for problem 3 ([ZIP]({{< baseurl >}}/resources/hw2_wsxm_nanoparticle))
 

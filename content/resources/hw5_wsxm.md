@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Other
 title: hw5_wsxm.txt
 uid: 5a3590f0-a3d3-e676-76d9-5e49e496ce9a

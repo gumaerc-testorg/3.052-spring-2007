@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dcc0fe68-2f91-766b-d157-12f75c0f7988
 resourcetype: Document
 title: lec8_inter_intra.pdf
 uid: c97ed0f1-7b1f-ea6f-95f4-c419d7e9fd50

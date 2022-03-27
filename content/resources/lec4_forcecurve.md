@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10a5bd3d-a11b-80ad-3d96-ad9fb4750e5b
 resourcetype: Other
 title: lec4_forcecurve.mov
 uid: 2a10372b-c811-f818-4ccd-03db92d6a7c9

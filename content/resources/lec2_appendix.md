@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e6456c8b-3f6d-c6b1-82cd-f37e5b941d0c
 resourcetype: Document
 title: lec2_appendix.pdf
 uid: d8d2ffa0-503a-d0ad-f0ed-b741ddb4e4c8

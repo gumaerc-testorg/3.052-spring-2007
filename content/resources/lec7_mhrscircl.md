@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dcc0fe68-2f91-766b-d157-12f75c0f7988
 resourcetype: Document
 title: lec7_mhrscircl.pdf
 uid: 02147b08-36ed-d5d2-76fc-10d3915078a2

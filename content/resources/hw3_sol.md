@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Document
 title: hw3_sol.pdf
 uid: 919dccd1-3c37-2133-07b5-f910929b106d

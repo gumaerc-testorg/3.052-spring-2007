@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Other
 title: hw6_nacre_afm.stp
 uid: 89d6a74c-ab98-0275-3b82-7b342e633fa6

@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Other
 title: hw5_wsxm_chondrocyte.zip
 uid: 53222b54-218f-b5a8-4f6b-c324799613ae

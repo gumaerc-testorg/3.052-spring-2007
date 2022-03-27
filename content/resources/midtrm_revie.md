@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 31f738a4-c74a-02ab-f600-670dd8954027
 resourcetype: Document
 title: midtrm_revie.pdf
 uid: fa3587d7-3314-94f3-f63f-a85bf5b5301d

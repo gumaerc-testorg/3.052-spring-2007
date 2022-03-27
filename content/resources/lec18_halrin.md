@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dcc0fe68-2f91-766b-d157-12f75c0f7988
 resourcetype: Document
 title: lec18_halrin.pdf
 uid: 925447a0-aa8e-3d2f-915e-8583e2f42d92

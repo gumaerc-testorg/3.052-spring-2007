@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Other
 title: hw2_wsxm_nanoparticle.zip
 uid: 4865ce0b-25fa-da8c-dace-1125aaf64e0d

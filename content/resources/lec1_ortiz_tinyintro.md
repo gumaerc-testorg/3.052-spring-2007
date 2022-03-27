@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dcc0fe68-2f91-766b-d157-12f75c0f7988
 resourcetype: Other
 title: lec1_ortiz_tinyintro.mp3
 uid: 19857382-ad10-d455-1ca2-4493f5ed294d

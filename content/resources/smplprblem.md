@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 31f738a4-c74a-02ab-f600-670dd8954027
 resourcetype: Document
 title: smplprblem.pdf
 uid: b1185392-a984-5e37-3206-4b1577cff5ae

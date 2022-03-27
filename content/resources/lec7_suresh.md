@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dcc0fe68-2f91-766b-d157-12f75c0f7988
 resourcetype: Other
 title: lec7_suresh.mpg
 uid: 2c321723-5d9a-9024-cd9b-99677b4e76f8
