@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This page lists the assigned readings for each lecture session, plus
+  the paper for the podcast associated with some sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: e6456c8b-3f6d-c6b1-82cd-f37e5b941d0c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page lists the assigned readings for each lecture session, plus the paper for the podcast associated with some sessions.
@@ -69,9 +75,9 @@ High resolution force spectroscopy (HRFS): The force transducer
 
 Van Vliet, K. J., G. Bao, and S. Suresh. "The Biomechanics Toolbox: Experimental Approaches for Living Cells and Biomolecules." _Acta Materialia_ 51 (2003): 5881-5905.
 
-Ortiz, C. Appendix to 3.052 Lecture 2: Cantilever Summary ([PDF]({{< baseurl >}}/resources/lec2_appendix))
+Ortiz, C. Appendix to 3.052 Lecture 2: Cantilever Summary ({{% resource_link d8d2ffa0-503a-d0ad-f0ed-b741ddb4e4c8 "PDF" %}})
 
-"Basic Introduction to Nanopositioning with Piezoelectric Technology." Tutorial by [Physik Instruments, Inc](http://web.mit.edu/cortiz/www/3.052/3.052CourseReader/9_Piezo.pdf). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 15.2MB](http://web.mit.edu/cortiz/www/3.052/3.052CourseReader/9_Piezo.pdf))
+"Basic Introduction to Nanopositioning with Piezoelectric Technology." Tutorial by [Physik Instruments, Inc](http://web.mit.edu/cortiz/www/3.052/3.052CourseReader/9_Piezo.pdf). ([PDF – 15.2MB](http://web.mit.edu/cortiz/www/3.052/3.052CourseReader/9_Piezo.pdf))
 
 
 {{< tdclose >}}
@@ -115,7 +121,7 @@ Force versus distance curves
 {{< tdopen >}}
 
 
-"Probing Nano-Scale Forces with the Atomic Force Microscope." Veeco Metrology Group. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bicel.org/IMG/pdf/AN08_ForceCurve.pdf))
+"Probing Nano-Scale Forces with the Atomic Force Microscope." Veeco Metrology Group. ([PDF](http://www.bicel.org/IMG/pdf/AN08_ForceCurve.pdf))
 
 Binning, G., C. F. Quate, and C. Gerber. "Atomic Force Microscope." _Physical Review Letters_ 56 (1986): 930-933.
 
@@ -138,7 +144,7 @@ Atomic force microscope (AFM) imaging
 
 Baselt, D. "Atomic Force Microscopy: Measuring Intermolecular Interaction Forces." California Institute of Technology, 1993 PhD Thesis, NRL code 6177.
 
-Scanning probe/Atomic force microscopy: Technology overview and update. Veeco Metrology Group. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB](https://www.azom.com/article.aspx?ArticleID=3281))
+Scanning probe/Atomic force microscopy: Technology overview and update. Veeco Metrology Group. ([PDF - 1.3 MB](https://www.azom.com/article.aspx?ArticleID=3281))
 
 AFM review articles bibliography (C. Ortiz supplementary course material)
 

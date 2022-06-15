@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for homework 2.
-file: /media/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/ef4a45d5f4a457fd61b8e864ca2e5943_hw2_wsxm.txt
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/ef4a45d5f4a457fd61b8e864ca2e5943_hw2_wsxm.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: hw2_wsxm.txt
 uid: ef4a45d5-f4a4-57fd-61b8-e864ca2e5943
 ---
+This resource is a supporting file for homework 2.
+

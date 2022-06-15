@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section presents the lecture notes for each class session, plus
+  supporting multimedia for some sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 10a5bd3d-a11b-80ad-3d96-ad9fb4750e5b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents the lecture notes for each class session, plus supporting multimedia for some sessions.
@@ -30,7 +36,7 @@ SUPPORTING MULTIMEDIA
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to nanomechanics ([PDF]({{< baseurl >}}/resources/lec1))
+Introduction to nanomechanics ({{% resource_link b6ecf46e-10d2-2f71-fd7d-0046e77146fc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Feynman, Richard. _Tiny Machines_. Audio CD, Sound Photosynthesis, 1984.
@@ -42,7 +48,7 @@ Feynman, Richard. _Tiny Machines_. Audio CD, Sound Photosynthesis, 1984.
 2
 {{< tdclose >}}
 {{< tdopen >}}
-High resolution force spectroscopy (HRFS): The force transducer ([PDF]({{< baseurl >}}/resources/lec2))
+High resolution force spectroscopy (HRFS): The force transducer ({{% resource_link 13bf4344-5b02-2292-3489-ee0ef37f7aaf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -54,7 +60,7 @@ High resolution force spectroscopy (HRFS): The force transducer ([PDF]({{< baseu
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Additional nanomechanics instrumentation components ([PDF]({{< baseurl >}}/resources/lec3))
+Additional nanomechanics instrumentation components ({{% resource_link 97b75451-4de0-d494-2ee7-81964c342ab0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -66,7 +72,7 @@ Additional nanomechanics instrumentation components ([PDF]({{< baseurl >}}/resou
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Force versus distance curves ([PDF]({{< baseurl >}}/resources/lec4))
+Force versus distance curves ({{% resource_link 264303e0-db20-8ef9-7529-629587899910 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -78,7 +84,7 @@ Force versus distance curves ([PDF]({{< baseurl >}}/resources/lec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Atomic force microscope (AFM) imaging ([PDF]({{< baseurl >}}/resources/lec5))
+Atomic force microscope (AFM) imaging ({{% resource_link 4ca90db2-5ed2-6c7a-0cb3-c472bc3b5cf6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -98,7 +104,7 @@ Force curve animation, from NC State University (MOV)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-AFM imaging II: Artifacts and applications ([PDF]({{< baseurl >}}/resources/lec6))
+AFM imaging II: Artifacts and applications ({{% resource_link 50b9921a-f4b6-e9f6-f039-b4489ab10c2a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -110,7 +116,7 @@ AFM imaging II: Artifacts and applications ([PDF]({{< baseurl >}}/resources/lec6
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Single cell mechanics ([PDF]({{< baseurl >}}/resources/lec7))
+Single cell mechanics ({{% resource_link e2ada0fd-26fc-e085-0707-e3cc76863947 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -122,7 +128,7 @@ Single cell mechanics ([PDF]({{< baseurl >}}/resources/lec7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Qualitative Introduction to intra- and intermolecular forces ([PDF]({{< baseurl >}}/resources/lec8))
+Qualitative Introduction to intra- and intermolecular forces ({{% resource_link dc69ca7d-09d0-c0c8-cb0a-daf3a639a6d8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Protein Folding demo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1618698/) \[You will need the MDL Chime plugin for your browser, which is a free download.\]
@@ -134,7 +140,7 @@ Qualitative Introduction to intra- and intermolecular forces ([PDF]({{< baseurl 
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Quantitative description of intra- and intermolecular forces ([PDF]({{< baseurl >}}/resources/lec9))
+Quantitative description of intra- and intermolecular forces ({{% resource_link 64401fe8-772b-b8ed-83da-5fdd237df7f5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -146,7 +152,7 @@ Quantitative description of intra- and intermolecular forces ([PDF]({{< baseurl 
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Molecule-surface interactions ([PDF]({{< baseurl >}}/resources/lec10))
+Molecule-surface interactions ({{% resource_link 642644e6-1ef0-48dd-80a6-b56dd177aa53 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -158,7 +164,7 @@ Molecule-surface interactions ([PDF]({{< baseurl >}}/resources/lec10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Colloids and interparticle potentials ([PDF]({{< baseurl >}}/resources/lec11))
+Colloids and interparticle potentials ({{% resource_link 02e2d8c0-e1b8-22e4-71bd-4cd1a9487fe9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -170,7 +176,7 @@ Colloids and interparticle potentials ([PDF]({{< baseurl >}}/resources/lec11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Van der Waals forces at work: Gecko feet adhesion ([PDF]({{< baseurl >}}/resources/lec12))
+Van der Waals forces at work: Gecko feet adhesion ({{% resource_link 343047a1-1342-9b60-220b-cf49be383870 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -182,7 +188,7 @@ Van der Waals forces at work: Gecko feet adhesion ([PDF]({{< baseurl >}}/resourc
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Midterm exam solutions review ([PDF]({{< baseurl >}}/resources/lec13))
+Midterm exam solutions review ({{% resource_link 0abc483c-3109-a581-5d3d-bd74d334ead1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -194,7 +200,7 @@ Midterm exam solutions review ([PDF]({{< baseurl >}}/resources/lec13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-The electrical double layer (EDL) - part 1 ([PDF]({{< baseurl >}}/resources/lec14))
+The electrical double layer (EDL) - part 1 ({{% resource_link 47b744cc-12fa-fdd0-b1c2-6a785a53abee "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -206,7 +212,7 @@ The electrical double layer (EDL) - part 1 ([PDF]({{< baseurl >}}/resources/lec1
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The electrical double layer (EDL) - part 2 ([PDF]({{< baseurl >}}/resources/lec15))
+The electrical double layer (EDL) - part 2 ({{% resource_link a9252a7e-6741-bfe4-55ea-f55cee3323e6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -218,7 +224,7 @@ The electrical double layer (EDL) - part 2 ([PDF]({{< baseurl >}}/resources/lec1
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Nanomechanics of cartilage ([PDF - 2.0 MB]({{< baseurl >}}/resources/lec16))
+Nanomechanics of cartilage ({{% resource_link 3b4ed784-068f-18bf-8b60-452e8b20dc04 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -230,14 +236,14 @@ Nanomechanics of cartilage ([PDF - 2.0 MB]({{< baseurl >}}/resources/lec16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Protein-surface interactions ([PDF - 1.3 MB]({{< baseurl >}}/resources/lec17))
+Protein-surface interactions ({{% resource_link 4be33695-3fa5-d139-cba6-035a62e46b82 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 John Marko, Cornell University, 1994.
 
-Simulation of Polymer Brush Interacting with Nanosized Object ([AVI]({{< baseurl >}}/resources/lec17_hoh_brush)) (Courtesy of Jan Hoh. Used with permission.)
+Simulation of Polymer Brush Interacting with Nanosized Object ({{% resource_link 4e42e866-eb62-2399-4aeb-d19e1001b756 "AVI" %}}) (Courtesy of Jan Hoh. Used with permission.)
 
 
 {{< tdclose >}}
@@ -248,7 +254,7 @@ Simulation of Polymer Brush Interacting with Nanosized Object ([AVI]({{< baseurl
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Nanomechanics and biocompatibility: Protein-biomaterial interactions, part 2 ([PDF]({{< baseurl >}}/resources/lec18))
+Nanomechanics and biocompatibility: Protein-biomaterial interactions, part 2 ({{% resource_link 647a04c9-fecb-c9ac-61f6-78d8492066f4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Same as prior session.
@@ -260,7 +266,7 @@ Same as prior session.
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Elasticity of single polymer chains: Theoretical formulations ([PDF]({{< baseurl >}}/resources/lec19))
+Elasticity of single polymer chains: Theoretical formulations ({{% resource_link c54311f6-d5d6-249a-8731-75fc298b87c1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -272,7 +278,7 @@ Elasticity of single polymer chains: Theoretical formulations ([PDF]({{< baseurl
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Theoretical aspects of single molecule force spectroscopy: Extensibility and the worm-like chain (WLC) ([PDF]({{< baseurl >}}/resources/lec20))
+Theoretical aspects of single molecule force spectroscopy: Extensibility and the worm-like chain (WLC) ({{% resource_link c8b73f4e-1fef-cc77-543a-115c686af144 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -284,7 +290,7 @@ Theoretical aspects of single molecule force spectroscopy: Extensibility and the
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Single chain elasticity of biomacromolecules: The giant protein titin and DNA ([PDF]({{< baseurl >}}/resources/lec21))
+Single chain elasticity of biomacromolecules: The giant protein titin and DNA ({{% resource_link b455247c-a7cf-932a-c560-2d46183a35e8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -304,7 +310,7 @@ Movie of SMFS Fibronectin stretching ([MPEG - 1.7 MB](http://www.ks.uiuc.edu/Res
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Theoretical aspects of nanoindentation ([PDF]({{< baseurl >}}/resources/lec22))
+Theoretical aspects of nanoindentation ({{% resource_link 2fc6d4aa-54b1-ffdf-899e-d3b6dc408961 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -316,7 +322,7 @@ Theoretical aspects of nanoindentation ([PDF]({{< baseurl >}}/resources/lec22))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Nanoindentation 2: Oliver-Pharr method and one literature example: Nacre ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec23))
+Nanoindentation 2: Oliver-Pharr method and one literature example: Nacre ({{% resource_link 13f5c341-f4e0-17aa-2953-4fd32fc1dafd "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

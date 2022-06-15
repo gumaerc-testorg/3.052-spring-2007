@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/7f1f98ed98647890f9234ee57d33dc6a_hw5.pdf
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/7f1f98ed98647890f9234ee57d33dc6a_hw5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -12,4 +12,10 @@ parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Document
 title: hw5.pdf
 uid: 7f1f98ed-9864-7890-f923-4ee57d33dc6a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Homework assignment.
+
