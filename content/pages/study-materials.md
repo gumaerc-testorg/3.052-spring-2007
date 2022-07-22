@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides study materials corresponding to the lecture sessions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: dcc0fe68-2f91-766b-d157-12f75c0f7988
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -102,7 +109,7 @@ Domke, J., et al. "Mapping the Mechanical Pulse of Single Cardiomyocytes with th
 
 Guo, X. E., et al. "Intracellular Calcium Waves in Bone Cell Networks Under Single Cell Nanoindentation." _MCB_ 3, no. 3 (2006): 95-107.
 
-Roylance, D. E. "Matrix and Index Notation." From 3.11 Mechanics of Materials, Fall 1999, MIT OpenCourseWare. \[Refer to the piezoelectricity equations.\] ([PDF]({{< baseurl >}}/resources/lec3_mtrix_indx))
+Roylance, D. E. "Matrix and Index Notation." From 3.11 Mechanics of Materials, Fall 1999, MIT OpenCourseWare. \[Refer to the piezoelectricity equations.\] ({{% resource_link 64109c03-b0a0-685b-12d0-587ee0aa3811 "PDF" %}})
 
 Shusteff, M., T. P. Burg, and S. R. Manalis. "Measuring Boltzmann's Constant with a Low-Cost Atomic Force Microscope: An Undergraduate Experiment." _Am J Phys_ 74, no. 10 (October 2006): 873-9.
 
@@ -134,7 +141,7 @@ Atomic force microscope (AFM) imaging
 
 [AFM visualizations (IBM)](http://www.almaden.ibm.com/vis/models/models.html#afm)
 
-AFM model (Lehigh University) ([EXE]({{< baseurl >}}/resources/lec5_afm_griffith)) (Courtesy of Joseph Griffith. Used with permission.)
+AFM model (Lehigh University) ({{% resource_link 662783b6-9bba-1207-e84a-9fb67f120268 "EXE" %}}) (Courtesy of Joseph Griffith. Used with permission.)
 
 [Tapping mode AFM visualization (Digital Instruments/Veeco)](https://web.archive.org/web/20061015204900/http://www.veeco.com/library/resources_sub_type.php?sub_id=2)
 
@@ -180,7 +187,7 @@ Qualitative introduction to intra - and intermolecular forces
 {{< tdopen >}}
 
 
-Review of definitions for intra- and intermolecular interactions ([PDF]({{< baseurl >}}/resources/lec8_inter_intra))
+Review of definitions for intra- and intermolecular interactions ({{% resource_link c97ed0f1-7b1f-ea6f-95f4-c419d7e9fd50 "PDF" %}})
 
 Hartgerink, J. D., et al. "Self-Assembly and Mineralization of Peptide-Amphiphile Nanofibers" _Science_ 294, no. 5547 (November 23, 2001): 1684-1688.
 
@@ -212,7 +219,7 @@ Quantitative description of intra - and intermolecular forces
 Molecule - surface interactions
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions to integrals shown in lecture ([PDF]({{< baseurl >}}/resources/lec10_integrals))
+Solutions to integrals shown in lecture ({{% resource_link 66821b57-e323-d0d2-8cea-21104b3d5d38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,9 +275,9 @@ The electrical double layer (EDL) - part 1
 {{< tdopen >}}
 
 
-EDL length scales ([PDF]({{< baseurl >}}/resources/lec14l_lnthscals))
+EDL length scales ({{% resource_link 41b826e2-0a35-d48c-7824-95312b9d441e "PDF" %}})
 
-Electrostatics definitions ([PDF]({{< baseurl >}}/resources/lec14_elctostats))
+Electrostatics definitions ({{% resource_link 23942ca2-2151-7129-99e0-d22a8e190f64 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -296,7 +303,7 @@ The electrical double layer (EDL) - part 2
 Nanomechanics of cartilage
 {{< tdclose >}}
 {{< tdopen >}}
-Nanomechanics of cartilage: Definitions ([PDF]({{< baseurl >}}/resources/lec16_cartilage))
+Nanomechanics of cartilage: Definitions ({{% resource_link bfd58efd-d238-af85-cbc4-4e91b823f440 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: Data for assignment.
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4f8a0f338bd2a7008e6a0d5af527dbf1_hw1_q1_data.xls
-file_type: application/msword
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/3a2897d77d0d0e8bcd939f3b090e71b2_hw2_q2_data.txt
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,11 +11,7 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Other
-title: hw1_q1_data.xls
-uid: 4f8a0f33-8bd2-a700-8e6a-0d5af527dbf1
-video_files:
-  video_thumbnail_file: null
-video_metadata:
-  youtube_id: null
+title: hw2_q2_data.txt
+uid: 3a2897d7-7d0d-0e8b-cd93-9f3b090e71b2
 ---
 Data for assignment.
