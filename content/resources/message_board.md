@@ -5,6 +5,7 @@ description: This file is a resource which contains the information about the an
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/f084cb7c13b82324580bdbde64d87160_message_board.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is a resource which contains the information about the answers of Prof. Ortiz's problems.
-

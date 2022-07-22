@@ -4,6 +4,7 @@ description: 'Supplement to Lecture #14, including nanomechanics of cartilage: d
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/bfd58efdd238af85cbc44e91b823f440_lec16_cartilage.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Supplement to Lecture #14, including nanomechanics of cartilage: definitions.
-

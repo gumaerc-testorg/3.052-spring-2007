@@ -5,6 +5,7 @@ file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/55b
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

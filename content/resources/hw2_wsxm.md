@@ -5,6 +5,7 @@ file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/ef4
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw2_wsxm.txt
 uid: ef4a45d5-f4a4-57fd-61b8-e864ca2e5943
 ---
 This resource is a supporting file for homework 2.
-

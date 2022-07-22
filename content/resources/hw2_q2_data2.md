@@ -5,6 +5,7 @@ file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/3a2
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw2_q2_data.txt
 uid: 3a2897d7-7d0d-0e8b-cd93-9f3b090e71b2
 ---
 Data for assignment.
-

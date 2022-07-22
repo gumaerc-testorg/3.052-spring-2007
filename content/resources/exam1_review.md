@@ -5,6 +5,7 @@ file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/821
 file_type: audio/mpeg
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
