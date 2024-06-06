@@ -2,6 +2,7 @@
 content_type: resource
 description: Data for assignment.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4f8a0f338bd2a7008e6a0d5af527dbf1_hw1_q1_data.xls
+file_size: 60416
 file_type: application/msword
 learning_resource_types:
 - Assignments

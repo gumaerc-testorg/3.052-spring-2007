@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes about elasticity of single polymer chains: theoretical
   formulations.'
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c54311f6d5d6249a873175fc298b87c1_lec19.pdf
+file_size: 274994
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

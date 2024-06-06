@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to the Optional Midterm Exam from Spring 2007.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c95a0fbb9026726173b07844cafca828_midterm_sol.pdf
+file_size: 166273
 file_type: application/pdf
 learning_resource_types:
 - Exams
