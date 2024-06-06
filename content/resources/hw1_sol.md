@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment solutions.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/02e4f2c31356ab31a77a43e8baba1e37_hw1_sol.pdf
+file_size: 609098
 file_type: application/pdf
 learning_resource_types:
 - Assignments

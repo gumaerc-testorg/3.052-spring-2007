@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about qualitative Introduction to intra- and intermolecular
   forces.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/dc69ca7d09d0c0c8cb0adaf3a639a6d8_lec8.pdf
+file_size: 622080
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

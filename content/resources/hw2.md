@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/b26583857acd623ed362e7648b476667_hw2.pdf
+file_size: 53643
 file_type: application/pdf
 learning_resource_types:
 - Assignments

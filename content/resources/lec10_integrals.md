@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supplement to Lecture #10, including solutions to integrals shown in
   the lecture.'
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/66821b57e323d0d28cea21104b3d5d38_lec10_integrals.pdf
+file_size: 23528
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
