@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes about nanomechanics and biocompatibility: protein-biomaterial
   interactions, part 2.'
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/647a04c9fecbc9ac61f678d8492066f4_lec18.pdf
+file_size: 912926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

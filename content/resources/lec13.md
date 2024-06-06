@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes with a review of the midterm exam solutions.
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/0abc483c3109a5815d3dbd74d334ead1_lec13.pdf
+file_size: 775459
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

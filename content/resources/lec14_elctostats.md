@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Supplement to Lecture #14, including electrostatics symbols and definitions.'
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/23942ca22151712999e0d22a8e190f64_lec14_elctostats.pdf
+file_size: 163149
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Executable application: AFM model (Lehigh University) (Courtesy of Joseph
   Griffith. Used with permission.)'
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/662783b69bba1207e84a9fb67f120268_lec5_afm_griffith.exe
+file_size: 336896
 file_type: application/x-ms-dos-executable
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,6 +7,7 @@ description: 'Supporting WSxM image files for homeworks 2 and 5, (hw2_wsxm_nanop
   header of the file, but caution: do not try to save that file from the ASCII editor
   because it will destroy the binary data!'
 file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4865ce0b25fada8cdace1125aaf64e0d_hw2_wsxm_nanoparticle.zip
+file_size: 563264
 file_type: application/zip
 learning_resource_types:
 - Assignments
