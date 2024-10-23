@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final Exam from Spring 2007.
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c9b2d603a0ad0e4c899d8f83bf68db24_final.pdf
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c9b2d603a0ad0e4c899d8f83bf68db24_final.pdf
 file_size: 311975
 file_type: application/pdf
 learning_resource_types:

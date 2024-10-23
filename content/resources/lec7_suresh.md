@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/2c3217235d9a9024cd9b99677b4e76f8_lec7_suresh.mpg
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/2c3217235d9a9024cd9b99677b4e76f8_lec7_suresh.mpg
 file_size: 4885160
 file_type: video/mpeg
 learning_resource_types: []

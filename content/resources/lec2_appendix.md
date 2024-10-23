@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Appendix to 3.052 Lecture 2: Cantilever Summary.'
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/d8d2ffa0503ad0adf0edb741ddb4e4c8_lec2_appendix.pdf
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/d8d2ffa0503ad0adf0edb741ddb4e4c8_lec2_appendix.pdf
 file_size: 294120
 file_type: application/pdf
 learning_resource_types:
