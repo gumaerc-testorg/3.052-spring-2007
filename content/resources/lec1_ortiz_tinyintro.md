@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/19857382ad10d4551ca24493f5ed294d_lec1_ortiz_tinyintro.mp3
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/19857382ad10d4551ca24493f5ed294d_lec1_ortiz_tinyintro.mp3
 file_size: 7487071
 file_type: audio/mpeg
 learning_resource_types: []

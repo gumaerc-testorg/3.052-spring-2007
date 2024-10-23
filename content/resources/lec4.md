@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about force versus distance curves.
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/264303e0db208ef97529629587899910_lec4.pdf
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/264303e0db208ef97529629587899910_lec4.pdf
 file_size: 539037
 file_type: application/pdf
 learning_resource_types:
