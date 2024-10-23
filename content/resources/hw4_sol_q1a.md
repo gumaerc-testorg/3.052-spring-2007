@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution data for for assignment.
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/e39fe430012db106734559bb104be120_hw4_sol_q1a.xls
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/e39fe430012db106734559bb104be120_hw4_sol_q1a.xls
 file_size: 44544
 file_type: application/msword
 learning_resource_types:
