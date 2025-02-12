@@ -43,7 +43,7 @@ Richard Feynman biography from the MacTutor History of Mathematics archive
 
 [Wikipedia page on "Surely You're Joking Mr. Feynman"](https://en.wikipedia.org/wiki/Surely_You're_Joking,_Mr._Feynman!)
 
-Drexler, K. Eric. [*Engines of Creation: The Coming Era of Nanotechnology*](http://www.e-drexler.com/d/06/00/EOC/EOC_Table_of_Contents.html). (1986).
+Drexler, K. Eric. [*Engines of Creation: The Coming Era of Nanotechnology*](https://web.mit.edu/cortiz/www/3.052/3.052CourseReader/3_EnginesofCreation.pdf). (1986).
 
 Crichton, Michael. *Prey*. New York, NY: Harper Collins, 2003. ISBN: 9780007154531.
 
@@ -95,7 +95,7 @@ Force versus distance curves
 Atomic force microscope (AFM) imaging
 {{< tdclose >}}{{< tdopen >}}
 
-[AFM visualizations (IBM)](http://www.almaden.ibm.com/vis/models/models.html#afm)
+[AFM visualizations (IBM)](https://www.ibm.com/docs/en/storage-scale/5.2.0?topic=management-introduction-active-file-afm)
 
 AFM model (Lehigh University) ({{% resource_link "662783b6-9bba-1207-e84a-9fb67f120268" "EXE" %}}) (Courtesy of Joseph Griffith. Used with permission.)
 
