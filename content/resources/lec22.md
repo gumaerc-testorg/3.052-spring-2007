@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about theoretical aspects of nanoindentation.
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/2fc6d4aa54b1ffdf899ed3b6dc408961_lec22.pdf
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/2fc6d4aa54b1ffdf899ed3b6dc408961_lec22.pdf
 file_size: 500369
 file_type: application/pdf
 learning_resource_types:

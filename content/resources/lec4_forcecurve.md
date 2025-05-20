@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/2a10372bc811f8184ccd03db92d6a7c9_lec4_forcecurve.mov
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/2a10372bc811f8184ccd03db92d6a7c9_lec4_forcecurve.mov
 file_size: 132118
 file_type: video/quicktime
 learning_resource_types:

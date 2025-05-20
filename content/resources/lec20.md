@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes about theoretical aspects of single molecule force spectroscopy:
   extensibility and the worm-like chain (WLC).'
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c8b73f4e1fefcc77543a115c686af144_lec20.pdf
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c8b73f4e1fefcc77543a115c686af144_lec20.pdf
 file_size: 234770
 file_type: application/pdf
 learning_resource_types:
