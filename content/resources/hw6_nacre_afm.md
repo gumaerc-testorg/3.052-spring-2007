@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: AFM image for problem 3b.
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/89d6a74cab9802753b827b342e633fa6_hw6_nacre_afm.stp
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/89d6a74cab9802753b827b342e633fa6_hw6_nacre_afm.stp
 file_size: 2100542
 file_type: application/octet-stream
 learning_resource_types:

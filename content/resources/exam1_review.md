@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/821ba1ecd664adff3258cc99b01488b1_exam1_review.mp3
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/821ba1ecd664adff3258cc99b01488b1_exam1_review.mp3
 file_size: 12209632
 file_type: audio/mpeg
 learning_resource_types:
