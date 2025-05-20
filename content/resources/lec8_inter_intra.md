@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review of definitions for intra- and intermolecular interactions.
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c97ed0f17b1fea6f95f4c419d7e9fd50_lec8_inter_intra.pdf
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/c97ed0f17b1fea6f95f4c419d7e9fd50_lec8_inter_intra.pdf
 file_size: 81762
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a resource which contains the information about Mohr?s circle.
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/02147b0836edd5d276fc10d3915078a2_lec7_mhrscircl.pdf
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/02147b0836edd5d276fc10d3915078a2_lec7_mhrscircl.pdf
 file_size: 136925
 file_type: application/pdf
 learning_resource_types: []

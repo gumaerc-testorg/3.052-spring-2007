@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about additional nanomechanics instrumentation components.
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/97b754514de0d4942ee781964c342ab0_lec3.pdf
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/97b754514de0d4942ee781964c342ab0_lec3.pdf
 file_size: 836696
 file_type: application/pdf
 learning_resource_types:

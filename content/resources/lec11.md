@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about colloids and interparticle potentials.
-file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/02e2d8c0e1b822e471bd4cd1a9487fe9_lec11.pdf
+file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/02e2d8c0e1b822e471bd4cd1a9487fe9_lec11.pdf
 file_size: 344097
 file_type: application/pdf
 learning_resource_types:
