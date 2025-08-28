@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Supplement to Lecture #14, including nanomechanics of cartilage: definitions.'
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/bfd58efdd238af85cbc44e91b823f440_lec16_cartilage.pdf
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/bfd58efdd238af85cbc44e91b823f440_lec16_cartilage.pdf
 file_size: 18294
 file_type: application/pdf
 learning_resource_types: []

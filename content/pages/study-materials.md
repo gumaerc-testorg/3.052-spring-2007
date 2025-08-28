@@ -31,7 +31,7 @@ Richard Feynman biography from the MacTutor History of Mathematics archive
 
 [Info on Feynman's talk "There's Plenty of Room at the Bottom"](https://web.pa.msu.edu/people/yang/RFeynman_plentySpace.pdf)
 
-[Nanotechnology podcasts by AzoNano (Australia)](https://www.eurekalert.org/pub_releases/2006-09/a-arp092706.php)
+[Nanotechnology podcasts by AzoNano (Australia)](https://www.azonano.com/news.aspx?newsID=4695)
 
 [Exploratorium "Small Talk" podcasts](http://www.exploratorium.edu/tv/archive.php?project=4)
 
