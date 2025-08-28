@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about molecule-surface interactions.
-file: /courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/642644e61ef048dd80a6b56dd177aa53_lec10.pdf
+file: /ol-ocw-studio-app/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/642644e61ef048dd80a6b56dd177aa53_lec10.pdf
 file_size: 410753
 file_type: application/pdf
 learning_resource_types:
