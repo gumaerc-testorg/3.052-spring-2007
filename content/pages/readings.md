@@ -31,13 +31,13 @@ PODCAST PAPERS
 Introduction to nanomechanics
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "23cb3485-4201-41e5-85d7-2ec8e533297c" "Scanning electron microscopy images of bacteria on the head of a pin" %}}.
+[Scanning electron microscopy images of bacteria on the head of a pin](http://www.xtalent.com.au/gallery/displayimage.php?album=random&cat=0&pos=-364).
 
-Feynman, R. P. "{{% resource_link "50fbeb83-df24-43e0-a90c-17397dfcbeda" "There's Plenty of Room at the Bottom" %}}." December 29th 1959 Annual meeting of the American Physical Society at the California Institute of Technology (Caltech).
+Feynman, R. P. "[There's Plenty of Room at the Bottom](http://www.zyvex.com/nanotech/feynman.html)." December 29th 1959 Annual meeting of the American Physical Society at the California Institute of Technology (Caltech).
 
 Drexler, K. E. "Engines of Construction." Chapter 1 in *Engines of Creation: The Coming Era of Nanotechnology*. New York, NY: Doubleday, New York, 1987. ISBN: 9780385199735.
 
-"{{% resource_link "a42e9b6d-3ce7-4f68-9157-db7e6d701e3f" "Nanotechnology: Shaping the World Atom by Atom" %}}." *Report by the National Science and Technology Council (NSTC) Committee on Technology* *The Interagency Working Group on Nanoscience, Engineering and Technology* *(IWGN)* (1999).
+"[Nanotechnology: Shaping the World Atom by Atom](https://www.ewh.ieee.org/soc/cpmt/presentations/nanoarticle.pdf)." *Report by the National Science and Technology Council (NSTC) Committee on Technology* *The Interagency Working Group on Nanoscience, Engineering and Technology* *(IWGN)* (1999).
 
 Shao, J. "Measuring Piconewton Forces and Its Application in Cellular and Molecular Biomechanics." *Advances in Biomechanics* (2001): 47-51.
 
@@ -53,7 +53,7 @@ Van Vliet, K. J., G. Bao, and S. Suresh. "The Biomechanics Toolbox: Experimental
 
 Ortiz, C. Appendix to 3.052 Lecture 2: Cantilever Summary ({{% resource_link "d8d2ffa0-503a-d0ad-f0ed-b741ddb4e4c8" "PDF" %}})
 
-"Basic Introduction to Nanopositioning with Piezoelectric Technology." Tutorial by {{% resource_link "811745d0-0819-448b-a5f2-b79ff3e6d3c4" "Physik Instruments, Inc" %}}. ({{% resource_link "811745d0-0819-448b-a5f2-b79ff3e6d3c4" "PDF – 15.2MB" %}})
+"Basic Introduction to Nanopositioning with Piezoelectric Technology." Tutorial by [Physik Instruments, Inc](http://web.mit.edu/cortiz/www/3.052/3.052CourseReader/9_Piezo.pdf). ([PDF – 15.2MB](http://web.mit.edu/cortiz/www/3.052/3.052CourseReader/9_Piezo.pdf))
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -89,7 +89,7 @@ Atomic force microscope (AFM) imaging
 
 Baselt, D. "Atomic Force Microscopy: Measuring Intermolecular Interaction Forces." California Institute of Technology, 1993 PhD Thesis, NRL code 6177.
 
-Scanning probe/Atomic force microscopy: Technology overview and update. Veeco Metrology Group. ({{% resource_link "a00f255d-1e17-4a72-8d36-ced9b8a34ba2" "PDF - 1.3 MB" %}})
+Scanning probe/Atomic force microscopy: Technology overview and update. Veeco Metrology Group. ([PDF - 1.3 MB](https://www.azom.com/article.aspx?ArticleID=3281))
 
 AFM review articles bibliography (C. Ortiz supplementary course material)
 
@@ -167,7 +167,7 @@ Israelachvili, J. "Contrasts Between Intermolecular, Interparticle, and Intersur
 
 ———. "Van der Waals Forces Between Surfaces: The Force Laws for Bodies of Different Geometries - The Hamaker Constant." Chapter 11.1 in *Intermolecular and Surface Forces*. pp. 176-179.
 
-"Table 9.1: Hamaker Constant for various materials." From Freitas, Robert J. {{% resource_link "e60dfe38-f9ae-45e0-b76d-b576524fcecd" "*Nanomedicine, Volume I: Basic Capabilities*" %}}. Georgetown, TX: Landes Bioscience, 1999. ({{% resource_link "a9fc300a-9e21-49ae-b044-b6aaf14642ff" "JPG" %}})
+"Table 9.1: Hamaker Constant for various materials." From Freitas, Robert J. [*Nanomedicine, Volume I: Basic Capabilities*](http://www.nanomedicine.com/NMI.htm). Georgetown, TX: Landes Bioscience, 1999. ([JPG](http://www.nanomedicine.com/NMI/Tables/9.1.jpg))
 
 {{< tdclose >}}{{< tdopen >}}
  

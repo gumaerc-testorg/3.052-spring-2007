@@ -23,27 +23,27 @@ STUDY MATERIALS
 Introduction to nanomechanics
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "f5024cba-21e8-4d44-97b9-0221ebd25c36" "Length scale animation" %}}
+[Length scale animation](http://www.cellsalive.com/howbig.htm)
 
-{{% resource_link "6a9790fe-66d2-4a93-b1c0-da2dd99e10eb" "Wikipedia page on Richard Feynman" %}}
+[Wikipedia page on Richard Feynman](http://en.wikipedia.org/wiki/Feynman)
 
 Richard Feynman biography from the MacTutor History of Mathematics archive
 
-{{% resource_link "106d4610-68aa-434f-871a-763222aab0c7" "Info on Feynman's talk \"There's Plenty of Room at the Bottom\"" %}}
+[Info on Feynman's talk "There's Plenty of Room at the Bottom"](https://web.pa.msu.edu/people/yang/RFeynman_plentySpace.pdf)
 
-{{% resource_link "2ad7d098-c78d-4a39-9ce6-dea8324b8aa2" "Nanotechnology podcasts by AzoNano (Australia)" %}}
+[Nanotechnology podcasts by AzoNano (Australia)](https://www.azonano.com/news.aspx?newsID=4695)
 
-{{% resource_link "a5bf256c-d5b4-4bca-8dba-650b8a98089f" "Exploratorium \"Small Talk\" podcasts" %}}
+[Exploratorium "Small Talk" podcasts](http://www.exploratorium.edu/tv/archive.php?project=4)
 
-{{% resource_link "73cbcdbe-3c27-405b-9c29-4bc635ee7b24" "The NanoHub Educational Resource" %}}
+[The NanoHub Educational Resource](http://www.nanohub.org/)
 
-{{% resource_link "8886ce87-4a0b-4765-aa38-2e4e412632ee" "NanoInk, Inc." %}}
+[NanoInk, Inc.](http://www.laboratoryequipment.com/company-profiles/nanoink-inc)
 
-{{% resource_link "f3ec97e7-153f-48d8-a7a0-a5d324a39d3b" "World's smallest guitar" %}}
+[World's smallest guitar](http://www.news.cornell.edu/Chronicle/97/8.14.97/nanoguitar.html)
 
-{{% resource_link "b76dfc45-21ea-4838-924e-749fbf6bd80d" "Wikipedia page on \"Surely You're Joking Mr. Feynman\"" %}}
+[Wikipedia page on "Surely You're Joking Mr. Feynman"](https://en.wikipedia.org/wiki/Surely_You're_Joking,_Mr._Feynman!)
 
-Drexler, K. Eric. {{% resource_link "369841c6-4005-46fa-83c8-af7f2a6a619c" "*Engines of Creation: The Coming Era of Nanotechnology*" %}}. (1986).
+Drexler, K. Eric. [*Engines of Creation: The Coming Era of Nanotechnology*](https://web.mit.edu/cortiz/www/3.052/3.052CourseReader/3_EnginesofCreation.pdf). (1986).
 
 Crichton, Michael. *Prey*. New York, NY: Harper Collins, 2003. ISBN: 9780007154531.
 
@@ -61,13 +61,13 @@ Vettiger, P., et al. "The 'Millipede' - More Than One Thousand Tips for Future A
 
 Beer, F., E. R. Johnston, and J. T. DeWolf. "Pure Bending," "Analysis and Design of Beams for Bending," and "Deflection of Beams." Chapters 4, 5, and 9 in *Mechanics of Materials*. 4th ed. New York, NY: McGraw-Hill, 2005. ISBN: 9780073107950.
 
-{{% resource_link "5a3ebf4a-34bf-4ff9-93ca-19c604681813" "Euler's buckling formulation" %}}
+[Euler's buckling formulation](http://www.efunda.com/formulae/solid_mechanics/columns/columns.cfm)
 
 ### Recitation 1
 
 Molloy, J. E., and M. J. Padgett. "Lights, Action: Optical Tweezers." *Contemporary Physics* 43, no. 4 (2002): 241-258.
 
-{{% resource_link "11dba644-0c99-4792-b64f-81b06fe11d50" "Let there be light" %}}. Audio program on optical tweezers from BBC "Science Frontiers." (10/29/2003, 30 min)
+[Let there be light](http://www.bbc.co.uk/radio4/science/frontiers_20031029.shtml). Audio program on optical tweezers from BBC "Science Frontiers." (10/29/2003, 30 min)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -95,13 +95,13 @@ Force versus distance curves
 Atomic force microscope (AFM) imaging
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "f3478200-9d47-470e-a332-4ed4b39c6a9e" "AFM visualizations (IBM)" %}}
+[AFM visualizations (IBM)](https://www.ibm.com/docs/en/storage-scale/5.2.0?topic=management-introduction-active-file-afm)
 
 AFM model (Lehigh University) ({{% resource_link "662783b6-9bba-1207-e84a-9fb67f120268" "EXE" %}}) (Courtesy of Joseph Griffith. Used with permission.)
 
-{{% resource_link "42ed0524-6471-4e29-81e4-4029d9965bad" "Tapping mode AFM visualization (Digital Instruments/Veeco)" %}}
+[Tapping mode AFM visualization (Digital Instruments/Veeco)](https://web.archive.org/web/20061015204900/http://www.veeco.com/library/resources_sub_type.php?sub_id=2)
 
-{{% resource_link "f72276aa-253a-4915-ac14-7c5c6243b578" "First AFM on Mars visualizations (U. Basel Switzerland)" %}}
+[First AFM on Mars visualizations (U. Basel Switzerland)](http://www.famars.unibas.ch/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -125,7 +125,7 @@ Review of definitions for intra- and intermolecular interactions ({{% resource_l
 
 Hartgerink, J. D., et al. "Self-Assembly and Mineralization of Peptide-Amphiphile Nanofibers" *Science* 294, no. 5547 (November 23, 2001): 1684-1688.
 
-{{% resource_link "8afbdab2-4fe2-4bb3-a305-38f7244392e3" "Amino acid structures" %}}
+[Amino acid structures](http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/aminostruct.html)
 
 Dissolving of salt by water simulation (Wellesley College)
 
